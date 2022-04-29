@@ -1,0 +1,6 @@
+clockPane.class
+DisplayClock.class
+module-info.class
+com\mycompany\clock\App.class
+com\mycompany\clock\SecondaryController.class
+com\mycompany\clock\PrimaryController.class
